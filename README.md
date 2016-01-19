@@ -1,10 +1,6 @@
 # ConsoleImages
 Converts standard images to display on console
 # Usage
-Referencing
-```
-using ConsoleImages;
-```
 Drawing on the console directly from an image
 ```
 Image imageVar; // Image variable to draw
