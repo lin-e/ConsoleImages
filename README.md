@@ -18,7 +18,7 @@ newImage.Draw();
 ```
 Drawing an animation on the console with settings
 ```C#
-ConsoleImage newImage = new ConsoleImage("foobar.jpg"); // You can load from a web link too
+ConsoleImage newImage = new ConsoleImage("foobar.gif"); // You can load from a web link too
 newImage.LoopCount = 10; // Loops the image 10 times, leave it at 0 if you want it to repeat
 newImage.FrameDelay = 10; // 10 millisecond delay between each frame (will still take time to draw the image)
 newImage.Draw();
